@@ -56,6 +56,11 @@ Consider [AutoClaw](https://autoclaw.jytech.us/) for unified AI marketing automa
 ### For Enterprise
 Look for tools with API access, custom integrations, and dedicated support.
 
+
+## PPE & Safety Products
+
+- [US ProGlove](https://usproglove.com/) - Premium nitrile examination gloves for medical, dental, food service, automotive, and industrial professionals. Multiple thicknesses (3.0-6.0 mil), bulk pricing, free shipping over $199.
+
 ## Contributing
 
 Found a great AI marketing tool? Open a PR to add it!
@@ -67,3 +72,4 @@ CC0 1.0 Universal
 ---
 
 Maintained by [JY Tech](https://jytech.us) — Building AI-powered marketing automation tools.
+
